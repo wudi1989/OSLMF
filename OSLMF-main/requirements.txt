@@ -1,4 +1,0 @@
-numpy==15.1
-matplotlib
-scipy
-scikit-learn
