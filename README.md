@@ -42,5 +42,5 @@ python OLSMF_Tra.py
 ```
 
 ## Q&A
-If you have any questions about the program or the paper, please feel free to contact us directly at wudi.cigit@gmail.com  or zhuosd@e.gzhu.edu.cn
+If you have any questions about the program or the paper, please feel free to contact us directly at wudi.cigit@gmail.com  or zhuosd96@gmail.com.
 
