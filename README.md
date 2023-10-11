@@ -1,4 +1,4 @@
-# OLSMF: Online Semi-Supervised Learning with Mix-Typed Streaming Features
+# OSLMF: Online Semi-Supervised Learning with Mix-Typed Streaming Features
 Author: Di Wu, Shengda Zhuo, Yu Wang, Zhong Chen, Yi He
 ###  [Association for the Advancement of Artificial Intelligence (AAAI-2023)](https://aaai.org/Conferences/AAAI-23/)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
